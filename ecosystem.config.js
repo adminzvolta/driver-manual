@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "zvolta-node-app",
-      cwd: "/home/zvolta-manual",
+      cwd: "/home/zvolta-drivers-manual",
       script: "npm",
       args: "run start",
       env: {
